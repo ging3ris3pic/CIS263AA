@@ -1,0 +1,9 @@
+In the world of Software Development, having a portfolio is an important
+item to have. It allows an individual to showcase previous projects
+and work completed to potential employers. Using GitHub allows the
+individual to have the piece of mind of knowing that they can log
+into GitHub and have access to their projects. They can also share a
+link to potential employers ,so they can view their project in more detail,
+and see the process behind how they approach writing code. It also serves
+as a place where you can store previous versions in the event things
+go wrong. Overall, this is a huge advantage for future job endeavors.

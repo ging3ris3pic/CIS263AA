@@ -1,0 +1,3 @@
+The other IDE, Intellij, is the one that I chose to use.The
+overall ease of use is better than Eclipse. While I'm still figuring
+out the software, it's easier to understand and use than Eclipse.
